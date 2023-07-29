@@ -744,3 +744,36 @@ css de area especificas
     width: 15px;
     height: auto;
 }
+
+footer .section-service img{
+    display: inline-block;
+    margin: 20px;
+    margin-bottom: 50px;
+    
+}
+
+footer .section-service{
+    padding: 15px;
+    
+    
+}
+
+footer .section-service .form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+   
+
+footer .section-service .form input{
+    border: none;
+    width: 165px;
+    height: 30px;
+    border-radius: 7px;
+    padding: 10px;
+}
+
+footer .section-services{
+    flex-wrap: wrap;
+}
